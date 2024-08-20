@@ -1,2 +1,2 @@
-# programaci-n_java
+# programacion_java
 Repo de programación en Java
